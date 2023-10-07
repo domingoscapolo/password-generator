@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/domingoscapolo/Documents/GitHub/password-generator",
+      "program": "/Users/domingoscapolo/Documents/GitHub/password-generator/build/Debug/outDebug"
+    }
+  ]
+}
